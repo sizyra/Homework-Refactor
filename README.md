@@ -1,2 +1,3 @@
 # Homework-Refactor
-Repository for all Refactor Homework materials.
+
+Modify website to correct for style and functionality.
