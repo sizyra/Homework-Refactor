@@ -10,4 +10,6 @@ Modify website to correct for style and functionality.
 
 4: Changed footer box to the same color as the header for symmetry.
 
-5: Reorganized and cut down on CSS coding for ease-of-use and accessibility.
+5: Altered class in HTML to narrow down number of required tags in CSS.
+
+6: Reorganized and cut down on CSS coding significantly for ease-of-use and accessibility.
